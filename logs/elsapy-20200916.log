@@ -30,3 +30,964 @@
 2020-09-16 14:20:00,958 - elsapy.elsdoc - INFO - Module loaded.
 2020-09-16 14:20:00,960 - elsapy.elssearch - INFO - Module loaded.
 2020-09-16 14:20:01,175 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=public+policyimpact+evaluationenvironmentclimate
+2020-09-16 14:28:50,785 - elsapy.elsclient - INFO - Module loaded.
+2020-09-16 14:28:52,292 - elsapy.elsentity - INFO - Module loaded.
+2020-09-16 14:28:52,294 - elsapy.utils - INFO - Module loaded.
+2020-09-16 14:28:52,294 - elsapy.elsprofile - INFO - Module loaded.
+2020-09-16 14:28:52,296 - elsapy.elsdoc - INFO - Module loaded.
+2020-09-16 14:28:52,299 - elsapy.elssearch - INFO - Module loaded.
+2020-09-16 14:45:21,384 - elsapy.elsclient - INFO - Module loaded.
+2020-09-16 14:45:21,388 - elsapy.elsentity - INFO - Module loaded.
+2020-09-16 14:45:21,388 - elsapy.elsdoc - INFO - Module loaded.
+2020-09-16 14:45:22,763 - elsapy.utils - INFO - Module loaded.
+2020-09-16 14:45:22,763 - elsapy.elssearch - INFO - Module loaded.
+2020-09-16 14:47:15,848 - elsapy.elsclient - INFO - Module loaded.
+2020-09-16 14:47:15,851 - elsapy.elsentity - INFO - Module loaded.
+2020-09-16 14:47:15,852 - elsapy.elsdoc - INFO - Module loaded.
+2020-09-16 14:47:16,852 - elsapy.utils - INFO - Module loaded.
+2020-09-16 14:47:16,853 - elsapy.elssearch - INFO - Module loaded.
+2020-09-16 14:47:44,274 - elsapy.elsclient - INFO - Module loaded.
+2020-09-16 14:47:44,275 - elsapy.elsentity - INFO - Module loaded.
+2020-09-16 14:47:44,275 - elsapy.elsdoc - INFO - Module loaded.
+2020-09-16 14:47:44,559 - elsapy.utils - INFO - Module loaded.
+2020-09-16 14:47:44,559 - elsapy.elssearch - INFO - Module loaded.
+2020-09-16 14:47:45,276 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=openaccess%281%29+AND+public+policy
+2020-09-16 14:47:46,134 - elsapy.utils - INFO - Converting prism:coverDate
+2020-09-16 14:53:00,993 - elsapy.elsclient - INFO - Module loaded.
+2020-09-16 14:53:00,997 - elsapy.elsentity - INFO - Module loaded.
+2020-09-16 14:53:00,997 - elsapy.elsdoc - INFO - Module loaded.
+2020-09-16 14:53:02,156 - elsapy.utils - INFO - Module loaded.
+2020-09-16 14:53:02,157 - elsapy.elssearch - INFO - Module loaded.
+2020-09-16 14:53:02,160 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=openaccess%281%29+AND+KEY%2528cpublic%2Bpolicy%2BAND%2Bimpact%2BOR%2Bresult%2A%2BOR%2Bevaluation%2BAND%2Bclimate%2BOR%2Benvironment%2A%2529
+2020-09-16 14:54:06,752 - elsapy.elsclient - INFO - Module loaded.
+2020-09-16 14:54:06,754 - elsapy.elsentity - INFO - Module loaded.
+2020-09-16 14:54:06,754 - elsapy.elsdoc - INFO - Module loaded.
+2020-09-16 14:54:08,608 - elsapy.utils - INFO - Module loaded.
+2020-09-16 14:54:08,608 - elsapy.elssearch - INFO - Module loaded.
+2020-09-16 14:54:08,610 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=openaccess%281%29+AND+KEY%28cat+AND+dog+AND+NOT+rodent+OR+mouse%29
+2020-09-16 15:04:53,873 - elsapy.elsclient - INFO - Module loaded.
+2020-09-16 15:04:53,876 - elsapy.elsentity - INFO - Module loaded.
+2020-09-16 15:04:53,877 - elsapy.elsdoc - INFO - Module loaded.
+2020-09-16 15:04:55,195 - elsapy.utils - INFO - Module loaded.
+2020-09-16 15:04:55,195 - elsapy.elssearch - INFO - Module loaded.
+2020-09-16 15:04:55,197 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=openaccess%281%29+AND+%28cat+AND+dog+AND+NOT+rodent+OR+mouse%29
+2020-09-16 15:04:56,259 - elsapy.utils - INFO - Converting prism:coverDate
+2020-09-16 15:05:43,021 - elsapy.elsclient - INFO - Module loaded.
+2020-09-16 15:05:43,024 - elsapy.elsentity - INFO - Module loaded.
+2020-09-16 15:05:43,024 - elsapy.elsdoc - INFO - Module loaded.
+2020-09-16 15:05:44,574 - elsapy.utils - INFO - Module loaded.
+2020-09-16 15:05:44,581 - elsapy.elssearch - INFO - Module loaded.
+2020-09-16 15:05:44,584 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=openaccess%281%29+AND+%28cat+AND+dog+AND+NOT+rodent+OR+mouse%29
+2020-09-16 15:05:45,402 - elsapy.utils - INFO - Converting prism:coverDate
+2020-09-16 15:09:45,416 - elsapy.elsclient - INFO - Module loaded.
+2020-09-16 15:09:45,419 - elsapy.elsentity - INFO - Module loaded.
+2020-09-16 15:09:45,420 - elsapy.elsdoc - INFO - Module loaded.
+2020-09-16 15:09:47,191 - elsapy.utils - INFO - Module loaded.
+2020-09-16 15:09:47,192 - elsapy.elssearch - INFO - Module loaded.
+2020-09-16 15:09:47,195 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=openaccess%281%29+AND+%28cat+AND+dog+AND+NOT+rodent+OR+mouse%29
+2020-09-16 15:09:48,094 - elsapy.utils - INFO - Converting prism:coverDate
+2020-09-16 15:09:48,095 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/S0929-6646(09)60356-9
+2020-09-16 15:09:49,203 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/S0929-6646(09)60356-9
+2020-09-16 15:09:49,204 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/S0929-6646(09)60356-9 to file
+2020-09-16 15:09:49,204 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cobeha.2019.12.006
+2020-09-16 15:09:50,233 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cobeha.2019.12.006
+2020-09-16 15:09:50,235 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cobeha.2019.12.006 to file
+2020-09-16 15:09:50,235 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ygeno.2009.04.007
+2020-09-16 15:09:51,103 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ygeno.2009.04.007
+2020-09-16 15:09:51,108 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ygeno.2009.04.007 to file
+2020-09-16 15:09:51,108 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ijppaw.2018.11.007
+2020-09-16 15:09:52,239 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ijppaw.2018.11.007
+2020-09-16 15:09:52,244 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ijppaw.2018.11.007 to file
+2020-09-16 15:09:52,245 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.fawpar.2018.e00034
+2020-09-16 15:09:53,212 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.fawpar.2018.e00034
+2020-09-16 15:09:53,213 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.fawpar.2018.e00034 to file
+2020-09-16 15:09:53,214 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.bbadis.2009.02.010
+2020-09-16 15:09:54,438 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.bbadis.2009.02.010
+2020-09-16 15:09:54,442 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.bbadis.2009.02.010 to file
+2020-09-16 15:09:54,442 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jhsg.2020.01.003
+2020-09-16 15:09:55,391 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jhsg.2020.01.003
+2020-09-16 15:09:55,394 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jhsg.2020.01.003 to file
+2020-09-16 15:09:55,394 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1111/j.1469-0691.2008.02197.x
+2020-09-16 15:09:56,156 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1111/j.1469-0691.2008.02197.x
+2020-09-16 15:09:56,157 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1111/j.1469-0691.2008.02197.x to file
+2020-09-16 15:09:56,158 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.medmal.2014.05.002
+2020-09-16 15:09:57,150 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.medmal.2014.05.002
+2020-09-16 15:09:57,152 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.medmal.2014.05.002 to file
+2020-09-16 15:09:57,152 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envint.2020.106033
+2020-09-16 15:09:58,226 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envint.2020.106033
+2020-09-16 15:09:58,228 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envint.2020.106033 to file
+2020-09-16 15:09:58,228 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.rvsc.2017.03.020
+2020-09-16 15:09:59,444 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.rvsc.2017.03.020
+2020-09-16 15:09:59,446 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.rvsc.2017.03.020 to file
+2020-09-16 15:09:59,446 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.vprsr.2016.08.002
+2020-09-16 15:10:00,449 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.vprsr.2016.08.002
+2020-09-16 15:10:00,451 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.vprsr.2016.08.002 to file
+2020-09-16 15:10:00,451 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.biopha.2020.110426
+2020-09-16 15:10:01,816 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.biopha.2020.110426
+2020-09-16 15:10:01,819 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.biopha.2020.110426 to file
+2020-09-16 15:10:01,819 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1038/mt.2013.232
+2020-09-16 15:10:02,836 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1038/mt.2013.232
+2020-09-16 15:10:02,838 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1038/mt.2013.232 to file
+2020-09-16 15:10:02,838 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.prevetmed.2012.01.003
+2020-09-16 15:10:03,769 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.prevetmed.2012.01.003
+2020-09-16 15:10:03,771 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.prevetmed.2012.01.003 to file
+2020-09-16 15:10:03,772 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ijppaw.2013.04.001
+2020-09-16 15:10:04,884 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ijppaw.2013.04.001
+2020-09-16 15:10:04,887 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ijppaw.2013.04.001 to file
+2020-09-16 15:10:04,887 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1038/mt.2012.134
+2020-09-16 15:10:06,007 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1038/mt.2012.134
+2020-09-16 15:10:06,010 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1038/mt.2012.134 to file
+2020-09-16 15:10:06,010 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.gecco.2019.e00743
+2020-09-16 15:10:06,927 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.gecco.2019.e00743
+2020-09-16 15:10:06,929 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.gecco.2019.e00743 to file
+2020-09-16 15:10:06,930 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.beproc.2017.02.010
+2020-09-16 15:10:07,985 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.beproc.2017.02.010
+2020-09-16 15:10:07,987 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.beproc.2017.02.010 to file
+2020-09-16 15:10:07,987 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.virol.2013.05.029
+2020-09-16 15:10:08,908 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.virol.2013.05.029
+2020-09-16 15:10:08,910 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.virol.2013.05.029 to file
+2020-09-16 15:10:08,910 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ijppaw.2019.09.004
+2020-09-16 15:10:09,934 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ijppaw.2019.09.004
+2020-09-16 15:10:09,935 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ijppaw.2019.09.004 to file
+2020-09-16 15:10:09,935 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.gecco.2018.e00444
+2020-09-16 15:10:10,921 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.gecco.2018.e00444
+2020-09-16 15:10:10,923 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.gecco.2018.e00444 to file
+2020-09-16 15:10:10,923 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jcpa.2015.10.179
+2020-09-16 15:10:12,355 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jcpa.2015.10.179
+2020-09-16 15:10:12,360 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jcpa.2015.10.179 to file
+2020-09-16 15:10:12,361 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.vetpar.2018.01.009
+2020-09-16 15:10:13,371 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.vetpar.2018.01.009
+2020-09-16 15:10:13,372 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.vetpar.2018.01.009 to file
+2020-09-16 15:10:13,372 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.vetmic.2013.02.014
+2020-09-16 15:10:14,219 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.vetmic.2013.02.014
+2020-09-16 15:10:14,221 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.vetmic.2013.02.014 to file
+2020-09-16 15:12:37,109 - elsapy.elsclient - INFO - Module loaded.
+2020-09-16 15:12:37,111 - elsapy.elsentity - INFO - Module loaded.
+2020-09-16 15:12:37,111 - elsapy.elsdoc - INFO - Module loaded.
+2020-09-16 15:12:38,356 - elsapy.utils - INFO - Module loaded.
+2020-09-16 15:12:38,357 - elsapy.elssearch - INFO - Module loaded.
+2020-09-16 15:12:38,359 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=openaccess%281%29+AND+%28public+policy+AND+impact+OR+result+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:12:39,317 - elsapy.utils - INFO - Converting prism:coverDate
+2020-09-16 15:12:39,318 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.scitotenv.2020.137146
+2020-09-16 15:12:40,327 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.scitotenv.2020.137146
+2020-09-16 15:12:40,332 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.scitotenv.2020.137146 to file
+2020-09-16 15:12:40,332 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.puhe.2019.06.001
+2020-09-16 15:12:41,220 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.puhe.2019.06.001
+2020-09-16 15:12:41,223 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.puhe.2019.06.001 to file
+2020-09-16 15:12:41,223 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.gecco.2020.e01037
+2020-09-16 15:12:42,117 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.gecco.2020.e01037
+2020-09-16 15:12:42,120 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.gecco.2020.e01037 to file
+2020-09-16 15:12:42,120 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.glt.2019.07.001
+2020-09-16 15:12:43,040 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.glt.2019.07.001
+2020-09-16 15:12:43,042 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.glt.2019.07.001 to file
+2020-09-16 15:12:43,042 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envsci.2017.10.003
+2020-09-16 15:12:44,105 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envsci.2017.10.003
+2020-09-16 15:12:44,106 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envsci.2017.10.003 to file
+2020-09-16 15:12:44,107 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.econ.2019.11.002
+2020-09-16 15:12:45,340 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.econ.2019.11.002
+2020-09-16 15:12:45,343 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.econ.2019.11.002 to file
+2020-09-16 15:12:45,343 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.heliyon.2020.e04650
+2020-09-16 15:12:46,336 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.heliyon.2020.e04650
+2020-09-16 15:12:46,341 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.heliyon.2020.e04650 to file
+2020-09-16 15:12:46,341 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jhepr.2019.07.009
+2020-09-16 15:12:47,534 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jhepr.2019.07.009
+2020-09-16 15:12:47,541 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jhepr.2019.07.009 to file
+2020-09-16 15:12:47,542 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.erss.2020.101736
+2020-09-16 15:12:48,665 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.erss.2020.101736
+2020-09-16 15:12:48,666 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.erss.2020.101736 to file
+2020-09-16 15:12:48,666 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.scitotenv.2020.137772
+2020-09-16 15:12:49,762 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.scitotenv.2020.137772
+2020-09-16 15:12:49,764 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.scitotenv.2020.137772 to file
+2020-09-16 15:12:49,765 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.oneear.2019.12.002
+2020-09-16 15:12:50,780 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.oneear.2019.12.002
+2020-09-16 15:12:50,782 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.oneear.2019.12.002 to file
+2020-09-16 15:12:50,782 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.crm.2018.09.002
+2020-09-16 15:12:51,907 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.crm.2018.09.002
+2020-09-16 15:12:51,910 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.crm.2018.09.002 to file
+2020-09-16 15:12:51,910 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.gloenvcha.2020.102117
+2020-09-16 15:12:52,929 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.gloenvcha.2020.102117
+2020-09-16 15:12:52,930 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.gloenvcha.2020.102117 to file
+2020-09-16 15:12:52,931 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envint.2019.03.042
+2020-09-16 15:12:53,818 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envint.2019.03.042
+2020-09-16 15:12:53,822 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envint.2019.03.042 to file
+2020-09-16 15:12:53,823 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jebo.2019.11.025
+2020-09-16 15:12:55,177 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jebo.2019.11.025
+2020-09-16 15:12:55,184 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jebo.2019.11.025 to file
+2020-09-16 15:12:55,184 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ijdrr.2020.101782
+2020-09-16 15:12:56,300 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ijdrr.2020.101782
+2020-09-16 15:12:56,301 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ijdrr.2020.101782 to file
+2020-09-16 15:12:56,301 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jsr.2020.06.009
+2020-09-16 15:12:57,389 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jsr.2020.06.009
+2020-09-16 15:12:57,393 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jsr.2020.06.009 to file
+2020-09-16 15:12:57,393 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.heliyon.2020.e04697
+2020-09-16 15:12:58,309 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.heliyon.2020.e04697
+2020-09-16 15:12:58,314 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.heliyon.2020.e04697 to file
+2020-09-16 15:12:58,314 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ijsbe.2016.10.003
+2020-09-16 15:12:59,200 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ijsbe.2016.10.003
+2020-09-16 15:12:59,201 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ijsbe.2016.10.003 to file
+2020-09-16 15:12:59,201 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envint.2020.105507
+2020-09-16 15:13:00,255 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envint.2020.105507
+2020-09-16 15:13:00,260 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envint.2020.105507 to file
+2020-09-16 15:13:00,260 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.landusepol.2019.04.033
+2020-09-16 15:13:01,443 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.landusepol.2019.04.033
+2020-09-16 15:13:01,446 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.landusepol.2019.04.033 to file
+2020-09-16 15:13:01,446 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.gloenvcha.2017.06.003
+2020-09-16 15:13:02,647 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.gloenvcha.2017.06.003
+2020-09-16 15:13:02,648 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.gloenvcha.2017.06.003 to file
+2020-09-16 15:13:02,648 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jclepro.2019.119154
+2020-09-16 15:13:03,743 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jclepro.2019.119154
+2020-09-16 15:13:03,745 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jclepro.2019.119154 to file
+2020-09-16 15:13:03,745 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.foodpol.2020.101954
+2020-09-16 15:13:05,105 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.foodpol.2020.101954
+2020-09-16 15:13:05,110 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.foodpol.2020.101954 to file
+2020-09-16 15:13:05,110 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ejor.2019.01.017
+2020-09-16 15:13:06,790 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ejor.2019.01.017
+2020-09-16 15:13:06,795 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ejor.2019.01.017 to file
+2020-09-16 15:39:08,052 - elsapy.elsclient - INFO - Module loaded.
+2020-09-16 15:39:08,054 - elsapy.elsentity - INFO - Module loaded.
+2020-09-16 15:39:08,054 - elsapy.elsdoc - INFO - Module loaded.
+2020-09-16 15:39:09,108 - elsapy.utils - INFO - Module loaded.
+2020-09-16 15:39:09,115 - elsapy.elssearch - INFO - Module loaded.
+2020-09-16 15:39:09,118 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:39:11,099 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=25&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:39:12,842 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=50&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:39:14,693 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=75&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:39:16,530 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=100&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:39:18,473 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=125&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:39:20,225 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=150&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:39:21,950 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=175&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:39:23,797 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=200&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:39:25,635 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=225&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:39:27,485 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=250&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:39:29,125 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=275&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:39:30,893 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=300&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:39:32,598 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=325&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:39:34,251 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=350&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:39:36,037 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=375&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:39:37,886 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=400&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:39:39,671 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=425&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:39:41,415 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=450&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:39:43,870 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=475&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:39:46,022 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=500&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:39:47,963 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=525&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:39:49,704 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=550&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:39:51,446 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=575&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:39:53,288 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=600&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:39:55,036 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=625&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:39:56,978 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=650&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:39:58,752 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=675&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:40:00,976 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=700&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:40:02,918 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=725&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:40:04,633 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=750&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:40:06,384 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=775&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:40:08,141 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=800&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:40:10,087 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=825&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:40:11,760 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=850&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:40:13,667 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=875&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:40:15,329 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=900&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:40:17,052 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=925&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:40:18,958 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=950&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:40:20,733 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=975&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:40:22,576 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1000&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:40:24,317 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1025&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:40:26,470 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1050&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:40:28,312 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1075&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:40:30,178 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1100&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:40:32,136 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1125&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:40:33,939 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1150&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:40:35,684 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1175&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:40:37,527 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1200&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:40:39,208 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1225&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:40:40,909 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1250&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:40:43,062 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1275&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:40:45,003 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1300&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:40:46,635 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1325&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:40:48,382 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1350&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:40:50,436 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1375&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:40:52,239 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1400&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:40:54,034 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1425&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:40:55,857 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1450&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:40:57,700 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1475&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:40:59,541 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1500&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:41:01,389 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1525&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:41:03,080 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1550&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:41:04,970 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1575&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:41:06,716 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1600&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:41:08,555 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1625&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:41:10,345 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1650&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:41:12,139 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1675&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:41:13,887 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1700&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:41:15,621 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1725&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:41:17,291 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1750&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:41:19,304 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1775&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:41:21,152 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1800&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:41:22,887 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1825&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:41:24,682 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1850&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:41:26,471 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1875&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:41:28,167 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1900&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:41:30,163 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1925&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:41:32,108 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1950&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:41:33,943 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1975&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:41:35,688 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2000&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:41:37,532 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2025&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:41:39,279 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2050&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:41:41,215 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2075&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:41:43,036 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2100&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:41:44,906 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2125&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:41:47,062 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2150&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:41:49,003 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2175&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:41:50,869 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2200&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:41:52,712 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2225&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:41:54,532 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2250&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:41:56,378 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2275&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:41:58,427 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2300&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:42:00,192 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2325&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:42:01,944 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2350&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:42:03,851 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2375&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:42:05,590 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2400&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:42:07,183 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2425&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:42:08,973 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2450&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:42:10,714 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2475&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:42:12,496 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2500&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:42:14,168 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2525&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:42:15,893 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2550&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:42:17,676 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2575&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:42:19,415 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2600&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:42:21,136 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2625&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:42:22,895 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2650&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:42:24,596 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2675&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:42:26,318 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2700&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:42:28,121 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2725&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:42:29,962 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2750&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:42:31,909 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2775&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:42:33,751 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2800&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:42:35,495 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2825&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:42:37,214 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2850&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:42:38,974 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2875&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:42:40,717 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2900&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:42:42,489 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2925&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:42:44,197 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2950&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:42:46,146 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2975&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:42:47,929 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3000&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:42:49,625 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3025&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:42:51,266 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3050&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:42:53,009 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3075&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:42:54,946 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3100&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:42:56,792 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3125&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:42:58,546 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3150&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:43:00,275 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3175&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:43:02,115 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3200&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:43:03,771 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3225&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:43:05,520 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3250&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:43:07,243 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3275&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:43:08,978 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3300&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:43:10,669 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3325&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:43:12,455 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3350&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:43:14,128 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3375&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:43:15,840 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3400&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:43:17,680 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3425&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:43:19,377 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3450&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:43:21,072 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3475&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:43:22,800 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3500&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:43:24,436 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3525&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:43:26,180 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3550&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:43:27,920 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3575&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:43:29,660 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3600&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:43:31,418 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3625&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:43:33,194 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3650&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:43:34,959 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3675&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:43:36,720 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3700&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:43:38,464 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3725&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:43:40,312 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3750&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:43:41,217 - elsapy.utils - INFO - Converting prism:coverDate
+2020-09-16 15:43:41,254 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.puhe.2019.06.001
+2020-09-16 15:43:42,160 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.puhe.2019.06.001
+2020-09-16 15:43:42,163 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.puhe.2019.06.001 to file
+2020-09-16 15:43:42,163 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.heliyon.2020.e04650
+2020-09-16 15:43:43,151 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.heliyon.2020.e04650
+2020-09-16 15:43:43,155 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.heliyon.2020.e04650 to file
+2020-09-16 15:43:43,155 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.erss.2020.101736
+2020-09-16 15:43:44,548 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.erss.2020.101736
+2020-09-16 15:43:44,551 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.erss.2020.101736 to file
+2020-09-16 15:43:44,552 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envsci.2017.10.003
+2020-09-16 15:43:45,784 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envsci.2017.10.003
+2020-09-16 15:43:45,786 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envsci.2017.10.003 to file
+2020-09-16 15:43:45,786 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.gloenvcha.2020.102117
+2020-09-16 15:43:47,089 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.gloenvcha.2020.102117
+2020-09-16 15:43:47,092 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.gloenvcha.2020.102117 to file
+2020-09-16 15:43:47,092 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.oneear.2019.12.002
+2020-09-16 15:43:48,032 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.oneear.2019.12.002
+2020-09-16 15:43:48,035 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.oneear.2019.12.002 to file
+2020-09-16 15:43:48,036 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jebo.2019.11.025
+2020-09-16 15:43:49,463 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jebo.2019.11.025
+2020-09-16 15:43:49,471 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jebo.2019.11.025 to file
+2020-09-16 15:43:49,472 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.foodpol.2020.101954
+2020-09-16 15:43:50,511 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.foodpol.2020.101954
+2020-09-16 15:43:50,517 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.foodpol.2020.101954 to file
+2020-09-16 15:43:50,518 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cliser.2020.100180
+2020-09-16 15:43:51,684 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cliser.2020.100180
+2020-09-16 15:43:51,686 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cliser.2020.100180 to file
+2020-09-16 15:43:51,687 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.scitotenv.2020.137772
+2020-09-16 15:43:52,723 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.scitotenv.2020.137772
+2020-09-16 15:43:52,730 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.scitotenv.2020.137772 to file
+2020-09-16 15:43:52,731 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.heliyon.2020.e04697
+2020-09-16 15:43:53,622 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.heliyon.2020.e04697
+2020-09-16 15:43:53,627 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.heliyon.2020.e04697 to file
+2020-09-16 15:43:53,627 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ijdrr.2020.101782
+2020-09-16 15:43:54,554 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ijdrr.2020.101782
+2020-09-16 15:43:54,556 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ijdrr.2020.101782 to file
+2020-09-16 15:43:54,556 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.wdp.2020.100239
+2020-09-16 15:43:55,767 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.wdp.2020.100239
+2020-09-16 15:43:55,771 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.wdp.2020.100239 to file
+2020-09-16 15:43:55,771 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.wasec.2020.100062
+2020-09-16 15:43:56,719 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.wasec.2020.100062
+2020-09-16 15:43:56,721 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.wasec.2020.100062 to file
+2020-09-16 15:43:56,721 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.scitotenv.2020.137146
+2020-09-16 15:43:57,631 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.scitotenv.2020.137146
+2020-09-16 15:43:57,633 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.scitotenv.2020.137146 to file
+2020-09-16 15:43:57,633 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jclepro.2019.119154
+2020-09-16 15:43:58,472 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jclepro.2019.119154
+2020-09-16 15:43:58,474 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jclepro.2019.119154 to file
+2020-09-16 15:43:58,474 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jenvman.2020.111107
+2020-09-16 15:43:59,291 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jenvman.2020.111107
+2020-09-16 15:43:59,293 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jenvman.2020.111107 to file
+2020-09-16 15:43:59,293 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.glt.2019.07.001
+2020-09-16 15:44:00,402 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.glt.2019.07.001
+2020-09-16 15:44:00,404 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.glt.2019.07.001 to file
+2020-09-16 15:44:00,405 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ejor.2019.01.017
+2020-09-16 15:44:01,833 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ejor.2019.01.017
+2020-09-16 15:44:01,835 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ejor.2019.01.017 to file
+2020-09-16 15:44:01,835 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cities.2019.05.007
+2020-09-16 15:44:02,864 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cities.2019.05.007
+2020-09-16 15:44:02,868 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cities.2019.05.007 to file
+2020-09-16 15:44:02,868 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envint.2020.105507
+2020-09-16 15:44:03,886 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envint.2020.105507
+2020-09-16 15:44:03,890 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envint.2020.105507 to file
+2020-09-16 15:44:03,891 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.indic.2020.100065
+2020-09-16 15:44:05,117 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.indic.2020.100065
+2020-09-16 15:44:05,119 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.indic.2020.100065 to file
+2020-09-16 15:44:05,120 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.geoforum.2020.06.024
+2020-09-16 15:44:06,229 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.geoforum.2020.06.024
+2020-09-16 15:44:06,233 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.geoforum.2020.06.024 to file
+2020-09-16 15:44:06,233 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.erss.2018.09.021
+2020-09-16 15:44:07,250 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.erss.2018.09.021
+2020-09-16 15:44:07,252 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.erss.2018.09.021 to file
+2020-09-16 15:44:07,252 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.gloenvcha.2017.06.003
+2020-09-16 15:44:08,176 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.gloenvcha.2017.06.003
+2020-09-16 15:44:08,178 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.gloenvcha.2017.06.003 to file
+2020-09-16 15:44:08,178 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.dibe.2020.100023
+2020-09-16 15:44:09,215 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.dibe.2020.100023
+2020-09-16 15:44:09,217 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.dibe.2020.100023 to file
+2020-09-16 15:44:09,217 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.landusepol.2018.02.031
+2020-09-16 15:44:10,268 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.landusepol.2018.02.031
+2020-09-16 15:44:10,274 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.landusepol.2018.02.031 to file
+2020-09-16 15:44:10,275 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.worlddev.2018.03.015
+2020-09-16 15:44:11,336 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.worlddev.2018.03.015
+2020-09-16 15:44:11,342 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.worlddev.2018.03.015 to file
+2020-09-16 15:44:11,343 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.accre.2019.04.001
+2020-09-16 15:44:12,177 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.accre.2019.04.001
+2020-09-16 15:44:12,179 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.accre.2019.04.001 to file
+2020-09-16 15:44:12,179 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.econ.2020.04.001
+2020-09-16 15:44:13,063 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.econ.2020.04.001
+2020-09-16 15:44:13,064 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.econ.2020.04.001 to file
+2020-09-16 15:44:13,065 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.heliyon.2019.e02936
+2020-09-16 15:44:13,881 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.heliyon.2019.e02936
+2020-09-16 15:44:13,882 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.heliyon.2019.e02936 to file
+2020-09-16 15:44:13,883 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cliser.2019.100125
+2020-09-16 15:44:14,843 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cliser.2019.100125
+2020-09-16 15:44:14,846 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cliser.2019.100125 to file
+2020-09-16 15:44:14,846 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envsci.2017.12.007
+2020-09-16 15:44:15,760 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envsci.2017.12.007
+2020-09-16 15:44:15,763 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envsci.2017.12.007 to file
+2020-09-16 15:44:15,763 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cliser.2020.100166
+2020-09-16 15:44:16,566 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cliser.2020.100166
+2020-09-16 15:44:16,568 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cliser.2020.100166 to file
+2020-09-16 15:44:16,569 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.crm.2018.09.002
+2020-09-16 15:44:17,663 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.crm.2018.09.002
+2020-09-16 15:44:17,665 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.crm.2018.09.002 to file
+2020-09-16 15:44:17,665 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jclepro.2020.120306
+2020-09-16 15:44:18,496 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jclepro.2020.120306
+2020-09-16 15:44:18,498 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jclepro.2020.120306 to file
+2020-09-16 15:44:18,498 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jclepro.2020.121900
+2020-09-16 15:44:19,431 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jclepro.2020.121900
+2020-09-16 15:44:19,432 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jclepro.2020.121900 to file
+2020-09-16 15:44:19,432 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.futures.2017.11.005
+2020-09-16 15:44:20,545 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.futures.2017.11.005
+2020-09-16 15:44:20,548 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.futures.2017.11.005 to file
+2020-09-16 15:44:20,549 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.geosus.2020.09.002
+2020-09-16 15:44:21,415 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.geosus.2020.09.002
+2020-09-16 15:44:21,419 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.geosus.2020.09.002 to file
+2020-09-16 15:44:21,419 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.gloenvcha.2020.102035
+2020-09-16 15:44:22,580 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.gloenvcha.2020.102035
+2020-09-16 15:44:22,584 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.gloenvcha.2020.102035 to file
+2020-09-16 15:44:22,584 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envint.2020.105889
+2020-09-16 15:44:23,649 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envint.2020.105889
+2020-09-16 15:44:23,653 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envint.2020.105889 to file
+2020-09-16 15:44:23,654 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.erss.2020.101641
+2020-09-16 15:44:24,599 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.erss.2020.101641
+2020-09-16 15:44:24,605 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.erss.2020.101641 to file
+2020-09-16 15:44:24,606 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cliser.2017.11.001
+2020-09-16 15:44:25,510 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cliser.2017.11.001
+2020-09-16 15:44:25,512 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cliser.2017.11.001 to file
+2020-09-16 15:44:25,512 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.erss.2018.06.020
+2020-09-16 15:44:26,336 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.erss.2018.06.020
+2020-09-16 15:44:26,338 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.erss.2018.06.020 to file
+2020-09-16 15:44:26,338 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.rser.2019.109415
+2020-09-16 15:44:27,421 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.rser.2019.109415
+2020-09-16 15:44:27,423 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.rser.2019.109415 to file
+2020-09-16 15:44:27,423 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envsci.2018.09.020
+2020-09-16 15:44:28,344 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envsci.2018.09.020
+2020-09-16 15:44:28,346 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envsci.2018.09.020 to file
+2020-09-16 15:44:28,346 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ecolmodel.2019.108870
+2020-09-16 15:44:29,666 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ecolmodel.2019.108870
+2020-09-16 15:44:29,668 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ecolmodel.2019.108870 to file
+2020-09-16 15:44:29,669 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.trpro.2020.08.230
+2020-09-16 15:44:30,584 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.trpro.2020.08.230
+2020-09-16 15:44:30,587 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.trpro.2020.08.230 to file
+2020-09-16 15:44:30,587 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cliser.2018.06.001
+2020-09-16 15:44:31,469 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cliser.2018.06.001
+2020-09-16 15:44:31,471 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cliser.2018.06.001 to file
+2020-09-16 15:44:31,471 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.gloenvcha.2019.03.005
+2020-09-16 15:44:32,449 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.gloenvcha.2019.03.005
+2020-09-16 15:44:32,452 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.gloenvcha.2019.03.005 to file
+2020-09-16 15:44:32,452 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.mex.2020.100893
+2020-09-16 15:44:33,274 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.mex.2020.100893
+2020-09-16 15:44:33,280 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.mex.2020.100893 to file
+2020-09-16 15:44:33,281 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ijdrr.2020.101616
+2020-09-16 15:44:34,300 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ijdrr.2020.101616
+2020-09-16 15:44:34,303 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ijdrr.2020.101616 to file
+2020-09-16 15:44:34,304 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envint.2019.104987
+2020-09-16 15:44:35,220 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envint.2019.104987
+2020-09-16 15:44:35,222 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envint.2019.104987 to file
+2020-09-16 15:44:35,222 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jsp.2020.08.001
+2020-09-16 15:44:36,363 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jsp.2020.08.001
+2020-09-16 15:44:36,365 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jsp.2020.08.001 to file
+2020-09-16 15:44:36,365 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cities.2020.102658
+2020-09-16 15:44:37,340 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cities.2020.102658
+2020-09-16 15:44:37,343 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cities.2020.102658 to file
+2020-09-16 15:44:37,343 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.scitotenv.2020.137782
+2020-09-16 15:44:38,590 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.scitotenv.2020.137782
+2020-09-16 15:44:38,593 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.scitotenv.2020.137782 to file
+2020-09-16 15:44:38,593 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cliser.2016.11.001
+2020-09-16 15:44:39,609 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cliser.2016.11.001
+2020-09-16 15:44:39,613 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cliser.2016.11.001 to file
+2020-09-16 15:44:39,613 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cliser.2019.100139
+2020-09-16 15:44:40,653 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cliser.2019.100139
+2020-09-16 15:44:40,655 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cliser.2019.100139 to file
+2020-09-16 15:44:40,655 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.tourman.2019.104010
+2020-09-16 15:44:41,663 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.tourman.2019.104010
+2020-09-16 15:44:41,668 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.tourman.2019.104010 to file
+2020-09-16 15:44:41,668 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.uclim.2020.100675
+2020-09-16 15:44:42,520 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.uclim.2020.100675
+2020-09-16 15:44:42,522 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.uclim.2020.100675 to file
+2020-09-16 15:44:42,522 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.gfs.2019.04.002
+2020-09-16 15:44:43,353 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.gfs.2019.04.002
+2020-09-16 15:44:43,355 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.gfs.2019.04.002 to file
+2020-09-16 15:44:43,355 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ecoser.2020.101113
+2020-09-16 15:44:44,519 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ecoser.2020.101113
+2020-09-16 15:44:44,521 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ecoser.2020.101113 to file
+2020-09-16 15:44:44,521 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.erss.2020.101617
+2020-09-16 15:44:45,888 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.erss.2020.101617
+2020-09-16 15:44:45,892 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.erss.2020.101617 to file
+2020-09-16 15:44:45,892 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envsci.2017.10.002
+2020-09-16 15:44:46,777 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envsci.2017.10.002
+2020-09-16 15:44:46,778 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envsci.2017.10.002 to file
+2020-09-16 15:44:46,778 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cliser.2019.100136
+2020-09-16 15:44:47,706 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cliser.2019.100136
+2020-09-16 15:44:47,709 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cliser.2019.100136 to file
+2020-09-16 15:44:47,710 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.accre.2017.08.005
+2020-09-16 15:44:48,524 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.accre.2017.08.005
+2020-09-16 15:44:48,525 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.accre.2017.08.005 to file
+2020-09-16 15:44:48,526 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cliser.2020.100152
+2020-09-16 15:44:49,511 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cliser.2020.100152
+2020-09-16 15:44:49,513 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cliser.2020.100152 to file
+2020-09-16 15:44:49,514 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ocecoaman.2020.105322
+2020-09-16 15:44:50,667 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ocecoaman.2020.105322
+2020-09-16 15:44:50,669 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ocecoaman.2020.105322 to file
+2020-09-16 15:44:50,670 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.enpol.2019.111031
+2020-09-16 15:44:51,697 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.enpol.2019.111031
+2020-09-16 15:44:51,699 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.enpol.2019.111031 to file
+2020-09-16 15:44:51,699 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.futures.2019.102488
+2020-09-16 15:44:52,619 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.futures.2019.102488
+2020-09-16 15:44:52,622 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.futures.2019.102488 to file
+2020-09-16 15:44:52,622 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.buildenv.2019.106523
+2020-09-16 15:44:53,612 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.buildenv.2019.106523
+2020-09-16 15:44:53,616 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.buildenv.2019.106523 to file
+2020-09-16 15:44:53,617 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.quaint.2020.05.043
+2020-09-16 15:44:54,436 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.quaint.2020.05.043
+2020-09-16 15:44:54,439 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.quaint.2020.05.043 to file
+2020-09-16 15:44:54,440 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.oceano.2020.03.003
+2020-09-16 15:44:55,388 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.oceano.2020.03.003
+2020-09-16 15:44:55,391 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.oceano.2020.03.003 to file
+2020-09-16 15:44:55,393 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.gecco.2020.e01037
+2020-09-16 15:44:56,386 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.gecco.2020.e01037
+2020-09-16 15:44:56,389 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.gecco.2020.e01037 to file
+2020-09-16 15:44:56,390 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envsci.2019.10.014
+2020-09-16 15:44:57,210 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envsci.2019.10.014
+2020-09-16 15:44:57,212 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envsci.2019.10.014 to file
+2020-09-16 15:44:57,212 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envsci.2016.09.001
+2020-09-16 15:44:57,970 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envsci.2016.09.001
+2020-09-16 15:44:57,971 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envsci.2016.09.001 to file
+2020-09-16 15:44:57,972 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.habitatint.2019.04.005
+2020-09-16 15:44:58,825 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.habitatint.2019.04.005
+2020-09-16 15:44:58,832 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.habitatint.2019.04.005 to file
+2020-09-16 15:44:58,833 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jcrimjus.2020.101693
+2020-09-16 15:45:00,297 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jcrimjus.2020.101693
+2020-09-16 15:45:00,300 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jcrimjus.2020.101693 to file
+2020-09-16 15:45:00,301 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.gloenvcha.2018.02.006
+2020-09-16 15:45:01,544 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.gloenvcha.2018.02.006
+2020-09-16 15:45:01,546 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.gloenvcha.2018.02.006 to file
+2020-09-16 15:45:01,547 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/S2095-3119(17)61794-5
+2020-09-16 15:45:02,652 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/S2095-3119(17)61794-5
+2020-09-16 15:45:02,654 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/S2095-3119(17)61794-5 to file
+2020-09-16 15:45:02,654 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cliser.2019.100137
+2020-09-16 15:45:04,060 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cliser.2019.100137
+2020-09-16 15:45:04,062 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.cliser.2019.100137 to file
+2020-09-16 15:45:04,063 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.esr.2018.12.008
+2020-09-16 15:45:04,987 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.esr.2018.12.008
+2020-09-16 15:45:04,990 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.esr.2018.12.008 to file
+2020-09-16 15:45:04,990 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envsci.2019.10.001
+2020-09-16 15:45:05,934 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envsci.2019.10.001
+2020-09-16 15:45:05,936 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envsci.2019.10.001 to file
+2020-09-16 15:45:05,936 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.crm.2020.100235
+2020-09-16 15:45:06,907 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.crm.2020.100235
+2020-09-16 15:45:06,910 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.crm.2020.100235 to file
+2020-09-16 15:45:06,911 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.polgeo.2020.102150
+2020-09-16 15:45:07,811 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.polgeo.2020.102150
+2020-09-16 15:45:07,813 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.polgeo.2020.102150 to file
+2020-09-16 15:45:07,813 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jclepro.2017.01.027
+2020-09-16 15:45:08,705 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jclepro.2017.01.027
+2020-09-16 15:45:08,710 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jclepro.2017.01.027 to file
+2020-09-16 15:45:08,711 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envsci.2019.05.006
+2020-09-16 15:45:10,028 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envsci.2019.05.006
+2020-09-16 15:45:10,030 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envsci.2019.05.006 to file
+2020-09-16 15:45:10,031 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.erss.2018.11.003
+2020-09-16 15:45:11,250 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.erss.2018.11.003
+2020-09-16 15:45:11,252 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.erss.2018.11.003 to file
+2020-09-16 15:45:11,252 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ijdrr.2018.12.001
+2020-09-16 15:45:12,067 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ijdrr.2018.12.001
+2020-09-16 15:45:12,068 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ijdrr.2018.12.001 to file
+2020-09-16 15:45:12,068 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.foodpol.2020.101905
+2020-09-16 15:45:13,189 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.foodpol.2020.101905
+2020-09-16 15:45:13,192 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.foodpol.2020.101905 to file
+2020-09-16 15:45:13,192 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envint.2018.08.053
+2020-09-16 15:45:14,079 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envint.2018.08.053
+2020-09-16 15:45:14,083 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envint.2018.08.053 to file
+2020-09-16 15:45:14,083 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ijdrr.2020.101599
+2020-09-16 15:45:14,940 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ijdrr.2020.101599
+2020-09-16 15:45:14,943 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ijdrr.2020.101599 to file
+2020-09-16 15:45:14,943 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ijsbe.2016.10.003
+2020-09-16 15:45:15,770 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ijsbe.2016.10.003
+2020-09-16 15:45:15,772 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.ijsbe.2016.10.003 to file
+2020-09-16 15:45:15,772 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jclepro.2020.120474
+2020-09-16 15:45:16,802 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jclepro.2020.120474
+2020-09-16 15:45:16,804 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.jclepro.2020.120474 to file
+2020-09-16 15:45:16,804 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.mran.2019.100089
+2020-09-16 15:45:17,798 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.mran.2019.100089
+2020-09-16 15:45:17,800 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.mran.2019.100089 to file
+2020-09-16 15:45:17,801 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.scitotenv.2016.09.104
+2020-09-16 15:45:18,740 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/DOI:10.1016/j.scitotenv.2016.09.104
+2020-09-16 15:45:18,743 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/DOI:10.1016/j.scitotenv.2016.09.104 to file
+2020-09-16 15:45:18,743 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/DOI:10.1016/j.envsci.2019.01.004
+2020-09-16 15:47:38,393 - elsapy.elsclient - INFO - Module loaded.
+2020-09-16 15:47:38,395 - elsapy.elsentity - INFO - Module loaded.
+2020-09-16 15:47:38,396 - elsapy.elsdoc - INFO - Module loaded.
+2020-09-16 15:47:39,350 - elsapy.utils - INFO - Module loaded.
+2020-09-16 15:47:39,351 - elsapy.elssearch - INFO - Module loaded.
+2020-09-16 15:47:39,399 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:47:41,283 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=25&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:47:42,967 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=50&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:47:44,742 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=75&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:47:46,485 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=100&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:47:48,326 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=125&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:47:50,075 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=150&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:47:51,735 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=175&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:47:53,551 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=200&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:47:55,288 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=225&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:47:57,037 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=250&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:47:58,775 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=275&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:48:00,403 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=300&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:48:02,254 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=325&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:48:03,998 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=350&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:48:05,734 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=375&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:48:07,374 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=400&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:48:09,416 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=425&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:48:11,263 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=450&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:48:13,007 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=475&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:48:14,848 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=500&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:48:16,536 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=525&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:48:18,176 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=550&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:48:19,872 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=575&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:48:21,710 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=600&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:48:23,450 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=625&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:48:25,139 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=650&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:48:26,790 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=675&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:48:28,776 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=700&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:48:30,621 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=725&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:48:32,248 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=750&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:48:33,910 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=775&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:48:35,637 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=800&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:48:37,483 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=825&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:48:39,220 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=850&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:48:41,060 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=875&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:48:42,804 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=900&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:48:44,827 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=925&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:48:46,785 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=950&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:48:48,745 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=975&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:48:50,484 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1000&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:48:52,331 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1025&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:48:54,173 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1050&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:48:55,812 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1075&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:48:57,532 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1100&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:48:59,500 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1125&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:49:01,340 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1150&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:49:03,030 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1175&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:49:04,707 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1200&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:49:06,660 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1225&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:49:08,331 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1250&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:49:10,041 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1275&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:49:12,092 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1300&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:49:14,125 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1325&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:49:15,799 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1350&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:49:17,518 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1375&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:49:19,260 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1400&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:49:21,208 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1425&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:49:23,080 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1450&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:49:24,790 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1475&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:49:26,530 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1500&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:49:28,338 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1525&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:49:30,215 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1550&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:49:31,859 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1575&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:49:33,565 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1600&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:49:35,339 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1625&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:49:37,299 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1650&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:49:39,226 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1675&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:49:41,275 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1700&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:49:43,060 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1725&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:49:44,759 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1750&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:49:46,396 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1775&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:49:48,091 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1800&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:49:49,979 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1825&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:49:51,629 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1850&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:49:53,356 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1875&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:49:55,098 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1900&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:49:56,738 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1925&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:49:58,394 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1950&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:50:00,326 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1975&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:50:02,096 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2000&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:50:03,771 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2025&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:50:05,527 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2050&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:50:07,284 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2075&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:50:09,132 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2100&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:50:10,884 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2125&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:50:12,631 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2150&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:50:14,349 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2175&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:50:16,090 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2200&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:50:17,979 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2225&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:50:19,779 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2250&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:50:21,420 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2275&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:50:23,162 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2300&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:50:24,900 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2325&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:50:26,638 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2350&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:50:28,481 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2375&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:50:30,187 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2400&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:50:31,965 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2425&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:50:33,709 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2450&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:50:35,451 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2475&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:50:37,129 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2500&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:50:38,835 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2525&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:50:40,673 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2550&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:50:42,515 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2575&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:50:44,367 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2600&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:50:46,095 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2625&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:50:47,740 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2650&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:50:49,678 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2675&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:50:51,628 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2700&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:50:53,469 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2725&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:50:55,208 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2750&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:50:56,952 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2775&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:50:58,631 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2800&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:51:00,386 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2825&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:51:02,117 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2850&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:51:03,809 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2875&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:51:05,560 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2900&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:51:07,507 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2925&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:51:09,133 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2950&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:51:10,879 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2975&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:51:12,741 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3000&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:51:14,669 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3025&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:51:16,378 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3050&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:51:18,147 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3075&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:51:19,965 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3100&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:51:21,789 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3125&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:51:23,536 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3150&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:51:25,313 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3175&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:51:27,158 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3200&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:51:28,821 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3225&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:51:30,667 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3250&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:51:32,477 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3275&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:51:34,306 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3300&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:51:36,046 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3325&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:51:37,710 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3350&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:51:39,754 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3375&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:51:41,701 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3400&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:51:43,340 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3425&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:51:45,254 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3450&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:51:46,920 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3475&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:51:48,839 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3500&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:51:50,509 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3525&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:51:52,553 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3550&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:51:54,573 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3575&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:52:48,043 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3600&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:52:49,791 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3625&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:52:51,654 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3650&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:52:53,355 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3675&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:52:55,090 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3700&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:52:56,967 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3725&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:52:58,808 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3750&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 15:52:59,708 - elsapy.utils - INFO - Converting prism:coverDate
+2020-09-16 16:01:14,930 - elsapy.elsclient - INFO - Module loaded.
+2020-09-16 16:01:14,933 - elsapy.elsentity - INFO - Module loaded.
+2020-09-16 16:01:14,933 - elsapy.elsdoc - INFO - Module loaded.
+2020-09-16 16:01:16,365 - elsapy.utils - INFO - Module loaded.
+2020-09-16 16:01:16,366 - elsapy.elssearch - INFO - Module loaded.
+2020-09-16 16:01:16,369 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:01:18,174 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=25&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:01:20,281 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=50&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:01:22,118 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=75&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:01:23,978 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=100&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:01:25,718 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=125&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:01:27,358 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=150&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:01:29,042 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=175&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:01:30,733 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=200&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:01:32,471 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=225&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:01:34,231 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=250&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:01:36,064 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=275&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:01:37,804 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=300&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:01:39,541 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=325&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:01:41,284 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=350&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:01:43,125 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=375&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:01:44,869 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=400&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:01:46,607 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=425&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:01:48,349 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=450&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:01:50,397 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=475&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:01:52,097 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=500&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:01:53,877 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=525&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:01:55,613 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=550&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:01:57,359 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=575&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:01:59,037 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=600&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:02:00,841 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=625&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:02:02,919 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=650&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:02:04,731 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=675&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:02:06,475 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=700&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:02:08,150 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=725&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:02:09,853 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=750&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:02:11,510 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=775&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:02:13,181 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=800&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:02:14,867 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=825&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:02:16,510 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=850&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:02:18,321 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=875&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:02:19,981 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=900&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:02:21,730 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=925&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:02:23,474 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=950&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:02:25,155 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=975&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:02:26,851 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1000&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:02:28,593 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1025&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:02:30,438 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1050&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:02:32,209 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1075&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:02:33,887 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1100&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:02:35,554 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1125&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:02:37,221 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1150&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:02:38,953 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1175&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:02:40,675 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1200&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:02:42,518 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1225&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:02:44,160 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1250&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:02:46,022 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1275&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:02:47,740 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1300&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:02:49,447 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1325&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:02:51,207 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1350&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:02:52,896 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1375&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:02:54,664 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1400&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:02:56,448 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1425&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:02:58,184 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1450&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:02:59,845 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1475&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:03:01,566 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1500&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:03:03,279 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1525&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:03:05,030 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1550&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:03:06,807 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1575&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:03:08,418 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1600&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:03:10,168 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1625&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:03:11,811 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1650&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:03:13,544 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1675&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:03:15,336 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1700&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:03:16,968 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1725&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:03:18,765 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1750&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:03:20,528 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1775&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:03:22,352 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1800&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:03:23,992 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1825&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:03:25,732 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1850&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:03:27,389 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1875&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:03:29,125 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1900&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:03:30,851 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1925&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:03:32,538 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1950&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:03:34,249 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=1975&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:03:35,976 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2000&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:03:37,624 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2025&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:03:39,559 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2050&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:03:41,402 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2075&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:03:43,134 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2100&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:03:45,085 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2125&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:03:47,128 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2150&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:03:49,284 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2175&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:03:51,178 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2200&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:03:52,867 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2225&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:03:54,610 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2250&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:03:56,355 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2275&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:03:58,058 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2300&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:03:59,730 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2325&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:04:01,406 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2350&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:04:03,229 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2375&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:04:04,955 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2400&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:04:06,810 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2425&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:04:08,640 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2450&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:04:10,415 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2475&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:04:12,149 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2500&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:04:13,810 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2525&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:04:15,492 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2550&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:04:17,339 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2575&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:04:18,987 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2600&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:04:20,722 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2625&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:04:22,433 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2650&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:04:24,306 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2675&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:04:26,044 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2700&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:04:27,790 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2725&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:04:29,530 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2750&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:04:31,163 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2775&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:04:33,115 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2800&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:04:34,853 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2825&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:04:36,593 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2850&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:04:38,256 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2875&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:04:39,975 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2900&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:04:41,816 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2925&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:04:43,560 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2950&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:04:45,413 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=2975&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:04:47,243 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3000&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:04:49,326 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3025&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:04:51,240 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3050&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:04:53,078 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3075&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:04:55,024 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3100&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:04:56,824 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3125&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:04:58,629 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3150&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:05:00,453 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3175&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:05:02,607 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3200&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:05:04,448 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3225&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:05:06,198 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3250&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:05:07,932 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3275&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:05:09,672 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3300&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:05:11,328 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3325&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:05:13,152 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3350&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:05:14,892 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3375&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:05:16,839 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3400&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:05:18,504 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3425&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:05:20,273 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3450&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
+2020-09-16 16:05:22,267 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/sciencedirect?start=3475&count=25&query=openaccess%281%29+AND+%28public+policy+OR+impact+OR+result+OR+evaluation+OR+evidence+AND+climate+OR+environment%29
