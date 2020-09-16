@@ -18,6 +18,6 @@ client = ElsClient(config['apikey'])
 
 ## Initialize doc search object using ScienceDirect and execute search, 
 #   retrieving all results
-doc_srch = ElsSearch("AI governance",'sciencedirect')
+doc_srch = ElsSearch("public policy"+"impact evaluation"+"environment" + "climate",'sciencedirect')
 doc_srch.execute(client, get_all = True)
 print ("doc_srch has", len(doc_srch.results), "results.")

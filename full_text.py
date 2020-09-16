@@ -9,10 +9,10 @@ client = json.load(con_file)
 con_file.close()
 
 GET_ALL = False # False gets one chunk (25) True gets all or max (5000)
-FULLTEXT = True # Save fulltext
+FULLTEXT = False # Save fulltext
 OPENACCESS = True # Search only openaccess documents (so we can get the full text)
 
-query = "cybernetics"
+query = "public policy"
 
 if OPENACCESS:
   query = "openaccess(1) AND " + query
