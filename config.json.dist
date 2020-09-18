@@ -1,0 +1,7 @@
+{
+"api_key":"your-api-key",
+"get_all":true,
+"full_text":false,
+"open_access":true,
+"query":"public policy AND (impact OR result OR evaluation OR evidence) AND (climate OR environment)"
+}
