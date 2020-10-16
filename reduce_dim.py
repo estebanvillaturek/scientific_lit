@@ -19,15 +19,15 @@ with open('embed.npy', 'rb') as f:
 scaledvecs = StandardScaler().fit_transform(embeddings)
 
 print("Reducing dimensions to cluster...")
-reducer = umap.UMAP(n_components=10, n_neighbors=45, random_state=42, metric='cosine', min_dist=0.0)
+reducer = umap.UMAP(n_components=10, n_neighbors=60, random_state=42, metric='cosine', min_dist=0.0)
 emb_reduced = reducer.fit_transform(scaledvecs)
 
 print("Clustering...")
-clusterer = hdbscan.HDBSCAN(min_cluster_size=40, min_samples=15)
+clusterer = hdbscan.HDBSCAN(min_cluster_size=30, min_samples=10)
 found_clusters = clusterer.fit_predict(emb_reduced)
 
 print("Reducing dimensions to plot...")
-reducer = umap.UMAP(n_neighbors=45, random_state=42, metric='cosine')
+reducer = umap.UMAP(n_neighbors=60, random_state=42, metric='cosine', min_dist=0.0)
 emb_reduced = reducer.fit_transform(scaledvecs)
 
 print("Loading original data...")
@@ -40,17 +40,16 @@ print("Ploting heatmap...")
 pubcount = df.groupby('pubname').title.count()
 keeppubs = pubcount[pubcount > 30].index
 sample = df[df.pubname.isin(keeppubs)]
-ct = pd.crosstab(sample.cluster, sample.pubname)
-relative_ct = (ct / pubcount).dropna(axis=1)
+ct = pd.crosstab(sample.cluster, sample.pubname, normalize="columns")
 
 plt.figure()
-sns.heatmap(relative_ct)
+sns.heatmap(ct)
 
 print("Ploting barplot...")
 plt.figure()
 cluster_pct = df.groupby('cluster').count() / len(df.index)
 ax= sns.barplot(cluster_pct.index, cluster_pct.title)
-ax.set(xlabel='Cluster', ylabel='Count')
+ax.set(xlabel='Cluster', ylabel='Percentage')
 
 print("Ploting scatter...")
 if emb_reduced.shape[1] > 2:
